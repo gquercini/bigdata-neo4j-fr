@@ -2,6 +2,6 @@
 Name=be2-install
 Comment=installer for BE 2 Big Data
 Exec=bash -c '"$(dirname "$1")"/be2-install.sh "$( cd "$(dirname "$1")" ; pwd -P )"' dummy %k
-#Icon=/home/user/youricon.png
+Icon=/home/eleves/quercini_gia/Téléchargements/bigdata-neo4j-fr/be2bigdata.png
 Terminal=true
 Type=Application
