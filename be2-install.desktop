@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=be2-install
+Name=INSTALL-ME
 Comment=installer for BE 2 Big Data
 Exec=bash -c '"$(dirname "$1")"/be2-install.sh "$( cd "$(dirname "$1")" ; pwd -P )"' dummy %k
-Icon=be2bigdata.png
+#Icon=be2bigdata.png
 Terminal=true
 Type=Application
