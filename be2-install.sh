@@ -6,7 +6,7 @@
 
 
 cwd=$1
-echo -e "\n******\n\nFichier d'installation du BE 2 du cours Big Data.\nAuteur : Gianluca QUERCINI\nAnnée : 2017 - 2018\n\n******\n"
+echo -e "\n******\n\nFichier d'installation du BE 2 du cours Big Data.\nAuteur : Gianluca QUERCINI\nAnnée : 2018 - 2019\n\n******\n"
 
 wdir='bigdata-be2'
 if [ -d ~/$wdir ]; then 
